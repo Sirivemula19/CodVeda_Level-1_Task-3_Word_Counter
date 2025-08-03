@@ -34,11 +34,9 @@ Error: File not found.
 
 ---
 
-📽️ Demo & Internship Links
+📽️ Demo & Internship Links: 
 
-🎥 Demo Video: [Insert video link here]
-
-🔗 LinkedIn Post: [Insert post link here]
+🔗 LinkedIn Post: (https://www.linkedin.com/posts/siri-vemula-831861236_codvedajourney-pythoninternship-taskcompletion-activity-7357652572473577472-s-Jv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrb8WUBTfUhblQ_-WQtD-iQHCp2A9mnUZk)
 
 🎓 Internship: Codveda Technology
 
